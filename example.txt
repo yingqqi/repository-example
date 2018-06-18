@@ -1,1 +1,3 @@
 Hi This is a new Txt! I didn't exist before a commit
+
+This is the second sentence in this txt file!
